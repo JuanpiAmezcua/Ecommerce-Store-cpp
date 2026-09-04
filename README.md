@@ -33,7 +33,7 @@ El sistema carga un inventario desde un archivo CSV, permite consultar productos
 - `Tienda`: coordina el inventario, carrito y menú principal.
 - `main.cpp`: inicia la aplicación.
 - `inventario.csv`: contiene los datos iniciales del inventario.
-- `docs/uml-diagram.drawio`: diagrama UML final del sistema.
+- `uml-diagram.drawio`: diagrama UML final del sistema.
 
 ## Ejemplo de uso
 
