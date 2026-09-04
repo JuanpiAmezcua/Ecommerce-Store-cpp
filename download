@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.d
+myapp
+*.exe
+*.out
+
+# IDE settings
+.vscode/
+.idea/
+.devcontainer/
+
+# OS files
+.DS_Store
+Thumbs.db
